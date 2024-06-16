@@ -1,7 +1,5 @@
 package com.dangchph33497.fpoly.base64image
 
-import ImageViewModel
-import ImageViewModelFactory
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.net.Uri
