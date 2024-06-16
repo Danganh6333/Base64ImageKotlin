@@ -1,3 +1,5 @@
+package com.dangchph33497.fpoly.base64image
+
 import android.graphics.Bitmap
 
 object ImageResizer {

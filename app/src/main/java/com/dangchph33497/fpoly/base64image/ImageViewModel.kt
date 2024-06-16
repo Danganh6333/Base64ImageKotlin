@@ -1,3 +1,5 @@
+package com.dangchph33497.fpoly.base64image
+
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.dangchph33497.fpoly.base64image.db.ImageModel
